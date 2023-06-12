@@ -24,13 +24,13 @@ Follow these steps to set up and run the chatbot:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/springboot-chatbot.git
+   git clone https://github.com/joinarun/ChatGPTBot-SpringBoot.git
    ```
 
 2. Navigate to the project directory:
 
    ```
-   cd springboot-chatbot
+   cd ChatGPTBot-SpringBoot
    ```
 
 3. Build the project using Maven:
@@ -82,7 +82,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any inquiries or feedback, please contact [your-email@example.com](mailto:your-email@example.com).
+For any inquiries or feedback, please contact [aforarun2001@yahoo.com](mailto:aforarun2001@yahoo.com).
 
 ---
 Note: Remember to replace "your-username" in the repository URL and "your-email@example.com" in the contact section with your actual username and email address.
